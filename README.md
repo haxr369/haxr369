@@ -1,4 +1,5 @@
-## 👋 함께 밥 먹는걸 <span style="color:green"> 솔찬히 </span> 좋아하는 Backend Engineer 오찬솔입니다. 👋
+## 👋 함께 밥 먹는걸 솔찬히 좋아하는 Backend Engineer 오찬솔입니다. 👋
+### p.s. 밥 값하는!  
 
 <!--
 **haxr369/haxr369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
