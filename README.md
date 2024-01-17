@@ -25,19 +25,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
-![aws logo][] ![azure logo][] ![gcp logo][] ![nginx logo][]  
-![postgresql logo][] ![sqlite logo][]
-
-### 🛠 IDE / Tools
-
-![vs logo][] ![code logo][] ![androidstudio logo][] ![datagrip logo][]  
-![notion logo][] ![airtable logo][] ![clickup logo][]
-
 # 👻 About me
 
 ### ✍️ Blog
 
-[![Medium logo][]][Medium url]  
+[![blog logo][]][Medium url]  
 
 ### 🤙 Contacts
 
@@ -47,3 +39,7 @@
 
 [GitHub logo]: http://img.shields.io/badge/kyle--seongwoo--jun-181717?style=for-the-badge&logo=github
 [GitHub url]: https://github.com/kyle-seongwoo-jun
+
+
+[blog logo]: https://github.com/haxr369/haxr369/assets/53365713/06f82c3d-ef19-4841-a7dd-234c2f0b2882
+
