@@ -22,7 +22,7 @@
 ### 🌱 Learning
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 ![aws logo][] ![azure logo][] ![gcp logo][] ![nginx logo][]  
