@@ -41,5 +41,5 @@
 [GitHub url]: https://github.com/kyle-seongwoo-jun
 
 
-[blog logo]: https://github.com/haxr369/haxr369/assets/53365713/06f82c3d-ef19-4841-a7dd-234c2f0b2882
+[blog logo]:https://github.com/haxr369/haxr369/assets/53365713/a6836281-a31d-40a9-852b-57214b4d1e98
 
