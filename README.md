@@ -3,6 +3,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxr369)](https://github.com/anuraghazra/github-readme-stats)      
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haxr369)](https://solved.ac/haxr369/)
+
 # 👨‍💻 Skills
 
 ### 🖥 Main Skills
@@ -26,8 +28,6 @@
 
 
 # 👻 About me
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/haxr369/)
 
 ### 🤙 Contacts
 
