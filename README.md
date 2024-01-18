@@ -1,5 +1,11 @@
 # 👋 함께 밥 먹는걸 솔찬히 좋아하는 Backend Engineer 오찬솔입니다. 👋
 #### p.s. 밥 값하는!  
+# 👻 About me
+
+### 🤙 Contacts
+
+[![Gmail logo][]][Gmail url]
+[![LinkedIn logo][]][LinkedIn url]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxr369)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haxr369)](https://solved.ac/haxr369/)
 
@@ -24,13 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-
-# 👻 About me
-
-### 🤙 Contacts
-
-[![Gmail logo][]][Gmail url]
-[![LinkedIn logo][]][LinkedIn url]
 
 
 [Gmail logo]: http://img.shields.io/badge/Gmail-%236DB33F.svg?style=for-the-badge&logo=gmail&logoColor=white
