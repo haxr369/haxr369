@@ -1,4 +1,4 @@
-## 👋 함께 밥 먹는걸 솔찬히 좋아하는 Backend Engineer 오찬솔입니다. 👋
+# 👋 함께 밥 먹는걸 솔찬히 좋아하는 Backend Engineer 오찬솔입니다. 👋
 #### p.s. 밥 값하는!  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxr369)](https://github.com/anuraghazra/github-readme-stats)      
