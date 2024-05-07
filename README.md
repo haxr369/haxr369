@@ -8,7 +8,6 @@
 [![LinkedIn logo][]][LinkedIn url]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxr369)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=haxr369)](https://solved.ac/haxr369)
 
 # 👨‍💻 Skills
