@@ -14,6 +14,7 @@
 
 ### 🖥 Main Skills
 
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%230db7ed.svg?style=for-the-badge&logoColor=white)
